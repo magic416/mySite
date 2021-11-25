@@ -84,6 +84,107 @@
   color: white;
 }
 
+.grad2{
+  background-color: #669db2;
+  padding: 7%;
+}
+
+.imgR{
+  float: right;
+}
+
+.imgL{
+  float: left;
+}
+
+.recordBg{
+  background-image: url(images/record.gif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.AlbumBilly{
+  background-image: url(images/billyAlbum.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.GrammyBilly{
+  background-image: url(images/billyGrammy.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+
+.albumBg{
+  background-image: url(images/albums.gif);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position: center;
+  background-size: contain;
+}
+
+.GrammyTaylor{
+  background-image: url(images/taylorGrammy.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+
+.AlbumTaylor{
+  background-image: url(images/folklore.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  color: black;
+  background-size: contain;
+}
+
+.singBg{
+  background-image: url(images/singing.gif);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position: center;
+  background-size: contain;
+}
+
+.Grammyher{
+  background-image: url(images/her.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.Albumher{
+  background-image: url(images/cant.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  background-size: contain;
+}
+
+.newBg{
+  background-image: url(images/new.gif);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position: center;
+  background-size: contain;
+}
+.Grammymeg{
+  background-image: url(images/megan.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  color: white;
+}
+.soloBg{
+  background-image: url(images/solo.gif);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position: center;
+  background-size: contain;
+}
+
 #tahoma{
   font-family: tahoma;
 }
@@ -148,6 +249,16 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
+}
+
+.vBackground{
+  background-color: salmon;
+  background-image: url(images/cartoonBike.gif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  padding-top: 15%;
+  padding-bottom: 15%;
 }
 
 #ballon {
@@ -243,7 +354,8 @@ td {
   background-color: salmon;
   color: white;
   font-family: Arial;
-  text-align: left;
+  text-align: center;
+  height: 300px;
 }
 
 /*Navigation Bar*/
