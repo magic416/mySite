@@ -2,18 +2,20 @@
 
 #btn {
     position: fixed;
-    bottom: 10px;
+    bottom: 3%;
     float: right;
     right: 100%;
-    left: 92%;
-    max-width: 90px;
+    left: 94%;
+    max-width: 50px;
     width: 100%;
+    max-height: 50px;
+    height: 100%;
     font-size: 12px;
     border-color: red;
     background-color: red;
     padding: .5px;
-    border-radius: 4px;
-    font-family: Arial;
+    border-radius: 25%;
+    font-family: tahoma;
 }
 
 #btn:hover {
