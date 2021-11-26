@@ -184,6 +184,84 @@
   background-position: center;
   background-size: contain;
 }
+.harry{
+  background-image: url(images/harry.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  color: white;
+}
+.water{
+  background-image: url(images/water.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position: center;
+  background-size: contain;
+}
+.duo{
+  background-image: url(images/group.gif);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position: center;
+  background-size: contain;
+}
+.gaga{
+  background-image: url(images/gaga.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  color: white;
+}
+.onMe{
+  background-image: url(images/onme.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position: center;
+  background-size: contain;
+}
+.popBg{
+  background-image: url(images/oldRecord.gif);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position: center;
+  background-size: contain;
+}
+.James{
+  background-image: url(images/james.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  color: white;
+}
+.stand{
+  background-image: url(images/aStand.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position: center;
+  background-size: contain;
+}
+.vocalbg{
+  background-image: url(images/vocal.gif);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position: center;
+  background-size: contain;
+  color: black;
+}
+.dua{
+  background-image: url(images/dua.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  color: white;
+}
+.future{
+  background-image: url(images/future.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position: center;
+  background-size: contain;
+}
 
 #tahoma{
   font-family: tahoma;
