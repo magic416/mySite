@@ -564,6 +564,7 @@ li a:active{
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
+
 }
 
 /* The actual timeline (the vertical ruler) */
@@ -576,6 +577,7 @@ li a:active{
   bottom: 0;
   left: 50%;
   margin-left: -3px;
+
 }
 
 /* Container around content */
@@ -598,6 +600,7 @@ li a:active{
   top: 15px;
   border-radius: 50%;
   z-index: 1;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 
 /* Place the container to the left */
@@ -648,7 +651,8 @@ li a:active{
   padding: 20px 30px;
   background-color: white;
   position: relative;
-  border-radius: 6px;
+  border-radius: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
