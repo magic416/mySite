@@ -87,6 +87,9 @@
 .grad2{
   background-color: #669db2;
   padding: 7%;
+  border: 0px solid black;
+  border-radius: 50px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 
 .imgR{
@@ -281,13 +284,36 @@
 
 }
 
-#grad1 {
-  background-image: linear-gradient(to bottom, #ffe2a0, #ff729b);
+#h1B {
+  background-color: black;
+  background-image: url(images/sunrise.gif);
+  background-size: cover;
+  padding: 20%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: tahoma;
+  background-attachment: fixed;
+
 }
 
 #grad2{
   background-color: #669db2;
   padding: 7%;
+  border: 0px solid black;
+  border-radius: 50px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.starBg{
+  background-image: url(images/stars.gif);
+  padding: 7%;
+  background-position: center;
+  font-family: tahoma;
+  border: 0px solid black;
+  border-radius: 50px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 
 #grad3 {
@@ -297,6 +323,8 @@
   background-position: center;
   padding-top: 15%;
   padding-bottom: 15%;
+  border: 0px solid black;
+  border-radius: 50px;
 }
 
 #grad4{
@@ -306,6 +334,26 @@
   padding-bottom: 15%;
   background-repeat: no-repeat;
   background-position: center;
+  margin-bottom: 3%;
+  border: 0px solid black;
+  border-radius: 50px;
+}
+
+.grad5{
+  background-color: salmon;
+  background-image: url(images/start.MOV);
+  padding-top: 7%;
+  padding-bottom: 7%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 0px solid black;
+  border-radius: 50px;
+}
+
+.white{
+  color: white;
 }
 
 #time{
@@ -359,6 +407,7 @@
   background-size: 60px 60px;
   background-position: 0 0, 30px 30px;
   background-repeat: repeat;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 
 .bm{
@@ -387,6 +436,12 @@ body{
   max-width: 95%;
   padding-right: 10px;
   padding-left:  10px;
+}
+
+mark{
+  color: white;
+  background-color: black;
+  font-weight: bold;
 }
 
 h1{
@@ -440,6 +495,7 @@ td {
 
 nav{
   text-align: center;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 ul {
   list-style-type: none;
